@@ -1,0 +1,14 @@
+distinct t-tuples 3360, nct 80, distinct - nct 3280, pow(qtminus1,t) 4096
+P 0.800781
+--------------------------------------------------------------------------------------------
+k=5, q=4, q^(t-1)=16, t=3, serial first row 0, threshold 1
+--------------------------------------------------------------------------------------------
+Initial number of tsubs 10
+Density of row 0: 9 , expected remaining after: 1
+Number of tsubs left after row 0: 1
+Density of row 1: 1 , expected remaining after: 0
+CPHF(2;5,16,3)
+0 1 4 5 2
+0 1 2 3 4
+and produces a CA(124;3,5,4)
+0 minutes 0 seconds

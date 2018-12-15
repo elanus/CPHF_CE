@@ -1,0 +1,12 @@
+distinct t-tuples 232593000, nct 46593000, distinct - nct 186000000, pow(qtminus1,t) 2.44141e+08
+P 0.761856
+--------------------------------------------------------------------------------------------
+k=6, q=5, q^(t-1)=125, t=4, serial first row 1, threshold 1
+--------------------------------------------------------------------------------------------
+Number of tsubs left after row 0: 15
+Density of row 1: 12 , expected remaining after: 3
+SCPHF(2;6,125,4)
+0 1 2 3 4 5
+0 1 5 25 31 39
+and produces a CA(1245;4,6,5)
+0 minutes 2 seconds
